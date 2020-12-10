@@ -15,6 +15,11 @@ export default function Home() {
       <Head>
         <title>Aditya Jamuar | Portfolio</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="description"
+          content="Aditya Jamuar is a full-stack developer who is crazy about doing random things and dreams of changing the world or atleast making a dent on it."
+        />
+        <meta name="keywords" content="Aditya Jamuar" />
       </Head>
 
       <main>
