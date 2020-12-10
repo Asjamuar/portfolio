@@ -4,6 +4,7 @@ import Typewriter from "typewriter-effect/dist/core";
 
 export default function Home() {
   useEffect(() => {
+    // Adding typewriter when page finishes loading
     new Typewriter("#intro", {
       strings: "Hi, I am Aditya Jamuar.",
       autoStart: true,
